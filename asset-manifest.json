@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cell_phone/static/css/main.bc13c2b3.css",
+    "main.js": "/cell_phone/static/js/main.d87d2e86.js",
+    "index.html": "/cell_phone/index.html",
+    "main.bc13c2b3.css.map": "/cell_phone/static/css/main.bc13c2b3.css.map",
+    "main.d87d2e86.js.map": "/cell_phone/static/js/main.d87d2e86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc13c2b3.css",
+    "static/js/main.d87d2e86.js"
+  ]
+}
